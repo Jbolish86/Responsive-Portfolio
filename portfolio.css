@@ -1,0 +1,33 @@
+html { 
+    background: url(https://www.arunsons.in/wp-content/uploads/2018/12/ran-847x470.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    border: 0px solid rgb(41, 41, 41);
+  }
+
+section {
+  border: 10px solid rgb(41, 41, 41);
+}
+
+.card{
+max-width: 400px;
+max-height: 400px;
+float: right;
+}
+
+img{
+width: 400px;
+
+
+}
+
+.aside {
+  max-width: 400px;
+  max-height: 400px;
+  float: left;
+
+
+
+}
